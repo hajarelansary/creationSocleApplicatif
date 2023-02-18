@@ -7,7 +7,7 @@ Le projet consiste à créer une plateforme des gestions des étudiants au sein 
 
 ## Pour commencer
 
-Le projet est constituer de trois parties:
+Le projet est constitué de trois parties:
 - La partie Base de donnée dockerisée
 - La partie Backend
 - La partie Frontend 
