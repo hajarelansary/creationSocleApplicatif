@@ -22,7 +22,7 @@ Les étapes pour installer ce programme sont les suivantes:
 
 Être dans la racine du projet
 
-_puiq_: Executez la commande ``docker compose up -d`` 
+_puis_: Executez la commande ``docker compose up -d`` 
 
 Vérifier si les ports 1521, 8181 et 3000 sont disponibles.
 
